@@ -1,4 +1,0 @@
-some random file
-
-
-* And here is its heading!
